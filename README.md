@@ -2,6 +2,8 @@
 
 Simple Package Can Help You To Use https://fortnite-api.com/
 
+<b><a href="https://www.npmjs.com/package/@laali/fortniteapi">Npm Package</a><b /> 
+
 examples:
 
 ```js
