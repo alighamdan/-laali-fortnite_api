@@ -30,7 +30,7 @@ fort.lang // Give You The Selected Language In Constructor
 
 Methods:
 
-``js
+```js
 fort.getLatestMap() // Get the latest Fortnite map
 
 fort.getAllPlaylists() // Get all playlists From Fortnite API 
